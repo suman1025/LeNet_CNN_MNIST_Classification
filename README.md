@@ -5,12 +5,12 @@ By completing this project, I learned how CNN models recognize image patterns an
 
 ## Project Objectives
 The main objectives of this project are:
-- To understand the basic structure of the LeNet CNN model
-- To learn how CNN models process image data
-- To use the MNIST dataset for handwritten digit classification
-- To train the CNN model using TensorFlow and Keras
-- To evaluate model performance using accuracy results
-- To understand image preprocessing and model training steps
+- To understand the basic structure of the LeNet CNN model.
+- To learn how CNN models process image data.
+- To use the MNIST dataset for handwritten digit classification.
+- To train the CNN model using TensorFlow and Keras.
+- To evaluate model performance using accuracy results.
+- To understand image preprocessing and model training steps.
 
 ## Dataset Information
 The MNIST dataset was used in this project. The dataset contains handwritten digit images from 0 to 9. Each image size is 28 × 28 pixels. The dataset includes both training and testing images for image classification tasks.

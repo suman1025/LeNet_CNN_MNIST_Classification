@@ -12,9 +12,7 @@ The main objectives of this project are:
 - To evaluate model performance using accuracy results
 - To understand image preprocessing and model training steps
 
-
 ## Dataset Information
-
 The MNIST dataset was used in this project. The dataset contains handwritten digit images from 0 to 9. Each image size is 28 × 28 pixels. The dataset includes both training and testing images for image classification tasks.
 
 ## Tools and Technologies Used

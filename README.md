@@ -1,6 +1,5 @@
 # LeNet_CNN_MNIST_Classification
 ## Project Overview
-
 This project was completed to understand how the LeNet CNN model works in handwritten digit image classification. The MNIST dataset was used in this project to train and test the CNN model using TensorFlow and Keras. The project includes image preprocessing, model creation, model training, and accuracy evaluation.
 By completing this project, I learned how CNN models recognize image patterns and classify handwritten digit images from 0 to 9. This project also helped me improve my understanding of deep learning implementation using Jupyter Notebook.
 
